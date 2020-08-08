@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="famous Developer"
+		<title>vnrao's website</title>
+	</head>
+	<body>
+
+		<h2>vnrao's website</h2>
+		<hr/><hr/>
+		<br/><br/>
+		<p><small>This is </small><b><i><big>my work</big></i></b></p>
+		<p>Practise a lot </p>
+		<p>10<sup>100</sup></p>
+
+	</body>
+
+</html>
