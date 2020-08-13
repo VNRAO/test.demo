@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<title>My Example</title>
+
+
+
+<select name="form_example" multiple>
+	<option value="Option1">Option 1
+	<option value="Option2">Option 2
+	<option value="Option3">Option 3
+	<option value="Option4">Option 4
+	<option value="Option5">Option 5
+</select>
+
+<hr>
+<p>The <code>multiple</code> attribute allows the user to select multiple options.</p>
+<p>More info: <a href="/html/tags/html_select_tag.cfm"><code>select</code></a>, <a href="/html/tags/html_option_tag.cfm"><code>option</code></a>.</p>
